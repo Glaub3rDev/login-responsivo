@@ -16,6 +16,10 @@ Grandes telas: 1200px
         height: 290px;
     }
 
+    section#login > div#imagem{
+        background-position: center center;
+    }
+
     section#login > div#imagem {
         float: left;
         width: 30%;
