@@ -41,7 +41,7 @@ Este projeto é **100% autoral**, criado para desenvolvimento pessoal e prática
 
 ## 🌐 Demonstração
 
-👉 *Adicione aqui o link do GitHub Pages, caso publique o projeto.*  
+Acesse o projeto [aqui](https://glaub3rdev.github.io/login-responsivo/)
 
 ---
 
