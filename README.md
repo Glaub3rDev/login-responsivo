@@ -10,9 +10,6 @@ O objetivo deste projeto é entregar uma interface limpa, eficiente e funcional,
 - Trabalhar com responsividade desde a base do layout  
 - Estudar posicionamento, tipografia, paletas de cores e boas práticas de UI  
 - Implementar um design moderno utilizando **Media Queries**, variáveis CSS e organização modular  
-
-Este projeto é **100% autoral**, criado para desenvolvimento pessoal e prática real de front-end.
-
 ---
 
 ## ⚙️ Funcionalidades
